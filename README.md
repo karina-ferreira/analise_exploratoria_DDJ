@@ -16,7 +16,7 @@
 Escolhemos o banco de dados da Secretaria de Segurança Pública do Estado de São Paulo, com informações sobre as ocorrências registradas por cidade, entre os anos de 2002 e 2021. Os dados estão disponíveis no [basededados.org](https://basedosdados.org/dataset/br-sp-gov-ssp?bdm_table=ocorrencias_registradas), e o dicionário pode ser acessado lá mesmo. 
 
 ## :point_up: Perguntas
-Ao subir os dados para o Orange, abrimos um *data table* para fazer a primeira visualização dos dados. O primeiro passo foi entender a tabela, com ajuda do dicionário. Passamos então a pensar em duas modalidades de perguntas: as que vinham à mente, e as que poderiam ser respondidas com os dados que disponíveis. Fizemos algumas visualizações usando ferramentas do Orange como *group by*, *box plot*, *distribution*, etc. Demos match nas perguntas das duas cateorias e chegamos à seguinte lista:
+Ao subir os dados para o *Orange*, abrimos um *data table* para fazer a primeira visualização dos dados. O primeiro passo foi entender a tabela, com ajuda do dicionário. Passamos então a pensar em duas modalidades de perguntas: as que vinham à mente, e as que poderiam ser respondidas com os dados que disponíveis. Fizemos algumas visualizações usando ferramentas do *Orange* como *group by*, *box plot*, *distribution*, etc. Demos match nas perguntas das duas cateorias e chegamos à seguinte lista:
 
 1. Qual tipo de ocorrência mais se repete?
 2. Qual tipo de ocorrência mais se repete em cada ano da série histórica (2002-2021)?
@@ -33,7 +33,9 @@ Ao subir os dados para o Orange, abrimos um *data table* para fazer a primeira v
 13. A partir de que ano cada tipo de ocorrência começou ser catalogada?
 
 ## :put_litter_in_its_place: Limpeza
-Texto texto.
+Embora grandes esntusiastas do *Orange*, podemos dizer que a paixão foi apagando conforme fomos apresentados à outras possibilidades de interação com os dados. O queridinho da vez é o *DB Browser*, onde utilizamos a linguagem *SQL* para construir *queries* que respondessem nossas perguntas. O primeiro e único passo da limpeza foi classificarmos as colunas que, para a maioria das perguntas, não seriam necessárias serem analisadas, como as que indicavam número de vítimas, ou as que somavam outras duas ou mais categorias. Para isso, fizemos a seuinte *querie*:
+
+`colar o código aqui`
 
 ## :bar_chart: Visualização
 
