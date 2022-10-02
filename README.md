@@ -13,6 +13,8 @@
 
 ## :dart: Escolha
 
+Escolhemos o banco de dados da Secretaria de Segurança Pública do Estado de São Paulo, com informações sobre as ocorrências registradas por cidade, entre os anos de 2002 e 2021. Os dados estão disponíveis no [basededados.org](https://basedosdados.org/dataset/br-sp-gov-ssp?bdm_table=ocorrencias_registradas).
+
 ## :put_litter_in_its_place: Limpeza
 
 ## :point_up: Perguntas
