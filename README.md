@@ -3,10 +3,10 @@
 :pencil: Passo-a-passo do projeto final da disciplina de Análise Exploradora de Dados, do Master em Jornalismo de Dados, Automação e Data Storytelling do Insper. A tarefa consiste em  escolher um conjunto de dados e explorá-los, estabelecendo questionamentos sobre eles e possíveis relações entre as variáveis. O convite foi de explorarmos os dados e gerarmos algumas hipóteses sobre eles. 
 
 **Integrantes:**
-- Ingrid Fernandes - [@colocaOuserAqui](https://github.com/link)
+- Ingrid Fernandes - [@indgris](https://github.com/indgris)
 - João Leite - [@joaogpleite](https://github.com/joaogpleite)
 - Karina Ferreira - [@karina-ferreira](https://github.com/karina-ferreira)
-- Will Araújo - [@colocaOuserAqui](https://github.com/link)
+- Will Araújo - [@will](https://github.com/link)
 
 :unlock: Vamos lá:
 
