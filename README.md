@@ -33,7 +33,7 @@ Ao subir os dados para o *Orange*, abrimos um *data table* para fazer a primeira
 13. A partir de que ano cada tipo de ocorrência começou ser catalogada?
 
 ## :put_litter_in_its_place: Limpeza
-Embora grandes esntusiastas do *Orange*, podemos dizer que a paixão foi apagando conforme fomos apresentados à outras possibilidades de interação com os dados. O queridinho da vez é o *DB Browser*, onde utilizamos a linguagem *SQL* para construir *queries* que respondessem nossas perguntas. O primeiro e único passo da limpeza foi classificarmos as colunas que, para a maioria das perguntas, não seriam necessárias serem analisadas, como as que indicavam número de vítimas, ou as que somavam outras duas ou mais categorias. Para isso, fizemos a seuinte *querie*:
+Embora grandes entusiastas do *Orange*, podemos dizer que a paixão foi apagando conforme fomos apresentados à outras possibilidades de interação com os dados. O queridinho da vez é o *DB Browser*, onde utilizamos a linguagem *SQL* para construir *queries* que respondessem nossas perguntas. O primeiro e único passo da limpeza foi classificarmos as colunas que, para a maioria das perguntas, não seriam necessárias serem analisadas, como as que indicavam número de vítimas, ou as que somavam outras duas ou mais categorias. Para isso, fizemos a seuinte *querie*:
 
 `colar o código aqui`
 
